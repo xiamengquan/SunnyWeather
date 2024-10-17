@@ -68,4 +68,9 @@ class PlaceFragment : Fragment(R.layout.fragment_place) {
       }
     }
   }
+
+  override fun onDestroy() {
+    super.onDestroy()
+    _binding = null
+  }
 }

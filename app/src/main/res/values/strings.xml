@@ -2,4 +2,9 @@
     <string name="app_name">SunnyWeather</string>
     <string name="place_background">Place Background</string>
     <string name="search_place_hint">输入地址</string>
+    <string name="separator">|</string>
+    <string name="forecast_title">预报</string>
+    <string name="sky_icon">Sky Icon</string>
+    <string name="life_index_title">生活指数</string>
+    <string name="cold_risk_icon">Cold Risk Icon</string>
 </resources>
